@@ -1,0 +1,121 @@
+
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+section{
+    margin: 0;
+    padding: 0;
+}
+
+.col-lg-3{
+    margin: 0;
+    padding: 0;
+}
+
+.container-fluid{
+    margin: 0;
+    padding: 0;
+}
+
+/* nav-bar */
+
+li a{
+    color: #f0efef ;
+
+}
+a:hover{
+    color: #bbcfff
+}
+
+#navbar-TopMenu{
+    background-color: #272343 ;
+    color: #f0efef ;
+}
+
+
+/* BANNER */
+
+.slide-col{
+    margin: 0;
+    padding: 0;
+}
+
+
+/* TV SHOW */
+
+#tvShow{
+    background-color: #ffffff;
+    margin: 20px 0 0 0;
+    padding: 0;
+}
+
+
+.tvshow-col{
+    margin: 0;
+    padding: 0;
+}
+
+.miniImgTVshow{
+    text-align: center;
+    border-radius: 10px;
+}
+
+.tvShowText{
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+/* what´s next */
+
+#whatsNextSection{
+    margin: 0;
+    background-color: #272343;
+    color: #f0efef ;
+}
+
+.wNext{
+    text-align: center;
+}
+
+.wNext-Img{
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.avatar-user{
+    border-radius: 30px;
+    width: 30%;
+    height: 30%;
+}
+
+/* MOVIE SHOW */
+
+#MovieShow{
+    background-color: #ffffff;
+    margin-bottom: 20px;
+    padding: 0;
+}
+
+
+
+/* FOOTER */
+
+#footer{
+    margin: 0;
+    text-align: center;
+    background-color: #272343;
+    color: #f0efef;
+}
+
+#footer p{
+    margin: 0;
+
+}
+
+.textFooter{
+    padding: 20px;
+}
